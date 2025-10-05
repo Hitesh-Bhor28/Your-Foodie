@@ -3,15 +3,15 @@
 
 ## 🖼️ Project Images
 ### 🏠 Landing Page & Navigation
-![Home Page](./assets/1.jpg)
-![](/assets/2.jpg)
-![](/assets/3.jpg)
+![Home Page](./assets/1.png)
+![](/assets/2.png)
+![](/assets/3.png)
 
 ### 🔑 Secure User Authentication
-![Login Page](./assets/4.jpg)
+![Login Page](./assets/4.png)
 
 ### 🔑 Home Page
-![Home Page](./assets/5.jpg) 
+![Home Page](./assets/5.png) 
 
 ### 💳 Secure Payment Gateway
 ![Payment Gateway](./assets/6.png)
